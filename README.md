@@ -1,18 +1,20 @@
 Unity3D Seed Project
 ====================
-*** This is free and unencumbered software released into the public domain ***
+**This is free and unencumbered software released into the public domain.**
 
-Empty project with exports set up for version control (for Unity version >= 4.6).
+Empty project with exports already set up for easy version control. 
 
-Nothing special going on just yet.  Here are a list of changes:
-1. ```Edit -> Project Settings -> Editor```
-    * ```Version Control -> Mode = Visible Meta Files```
-    * ```Asset Serialization -> Mode = Force Text```
-2. Added ```.gitignore``` file.
+**Used for Unity3D version >= 4.5**.
+
+Nothing special going on just yet.  Here are a list of project changes:
+* `Edit -> Project Settings -> Editor`
+  1. ```Version Control -> Mode = Visible Meta Files```
+  2. ```Asset Serialization -> Mode = Force Text```
+* Added ```.gitignore``` file.
 
 References:
-1. http://stackoverflow.com/questions/18225126/how-to-use-git-for-unity3d-source-control
-2. http://www.strichnet.com/using-git-with-3d-games/
+* http://stackoverflow.com/questions/18225126/how-to-use-git-for-unity3d-source-control
+* http://www.strichnet.com/using-git-with-3d-games/
 
 TODO
 ====
